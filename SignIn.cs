@@ -19,7 +19,7 @@ namespace WelcomeApp
 			{
 				if ((userName == "admin") && (password == "admin@1256"))
 				{
-					msg = "Authentication Pass"
+					msg = "Authentication Pass";
 				}
 				else
 				{
