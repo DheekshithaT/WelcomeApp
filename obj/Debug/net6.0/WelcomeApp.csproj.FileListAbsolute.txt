@@ -1,0 +1,4 @@
+C:\Users\91807\Desktop\Mphasis phase 4\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Mphasis phase 4\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Mphasis phase 4\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+C:\Users\91807\Desktop\Mphasis phase 4\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
